@@ -1,12 +1,12 @@
 ## Hi there 👋 It's me MANOJ KANNA V
 STUDENT @ St.Joseph's College Of Engineering
 
-- 🔭 Here's my [LINKEDIN](linkedin.com/in/manojkanna2004-v)                                                 
+- 🔭 Here's my [LINKEDIN](https://www.linkedin.com/in/manojkanna2004-v/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for internships
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/manojkanna2004-v) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manojkanna2004-v/) 
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
